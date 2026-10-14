@@ -1,0 +1,11 @@
+---
+title: "Day 1 R notes"
+format: html
+---
+
+This is where I type my notes.
+
+
+```{r}
+1 + 3
+```
